@@ -1,0 +1,36 @@
+body {
+  cursor: zoom-in;
+  background: #33FFDD;
+  background: -moz-linear-gradient(top, #33FFDD 0%, #FFFFFF 100%);
+  background: -webkit-linear-gradient(top, #33FFDD 0%, #FFFFFF 100%);
+  background: linear-gradient(to bottom, #33FFDD 0%, #FFFFFF 100%);
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: Helvetica, Courier, monospace;
+  font-size: 70px;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+  color: #FFFFFF;
+  font-weight: 200;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+
+p {
+  font-family: Helvetica, Courier, monospace;
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 300%;
+  line-spacing: 300%;
+  word-spacing: 2px;
+  color: #FFFFFF;
+  font-weight: 400;
+  text-decoration: none;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
